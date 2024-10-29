@@ -1,7 +1,4 @@
 
-import streamlit as st
-
-
 st.sidebar.title("my first barra lateral")
 st.sidebar.header("holis barra lateral")
 st.sidebar.write("esto es una barra lateral")
